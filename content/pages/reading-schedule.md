@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides citations and links to the course textbooks.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Reading Schedule

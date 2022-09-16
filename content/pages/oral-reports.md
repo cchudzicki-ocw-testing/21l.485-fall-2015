@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the oral reports
+  required for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Oral Reports

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides guidelines for writing essays, advice on writing,
+  policies on assessment of writing and use of external sources, and topics for the
+  essay assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Essays

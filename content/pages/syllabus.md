@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, required
+  texts, class rules, student work, grading policy, and the literature faculty policy
+  on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
